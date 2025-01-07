@@ -512,6 +512,6 @@ module_init(tabi_driver_init);
 module_exit(tabi_driver_exit);
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("EmbeTronicX <embetronicx@gmail.com>");
-MODULE_DESCRIPTION("Simple I2C driver explanation (SSD_1306 OLED Display Interface)");
+MODULE_AUTHOR("TABI <hungtabi1478@gmail.com>");
+MODULE_DESCRIPTION("SAI GON VIET NAM");
 MODULE_VERSION("1.34");
